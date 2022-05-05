@@ -1,0 +1,1511 @@
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 0
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uexp" 1
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk" 2
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Basic_Wall.uasset" 3
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Basic_Wall.uexp" 4
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Pillar_50x500.uasset" 5
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Pillar_50x500.uexp" 6
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x300.uasset" 7
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x300.uexp" 8
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x400.uasset" 9
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x400.uexp" 10
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_500x500.uasset" 11
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_500x500.uexp" 12
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 13
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 14
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 15
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 16
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse01.uasset" 17
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse01.uexp" 18
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse02.uasset" 19
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse02.uexp" 20
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion01.uasset" 21
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion01.uexp" 22
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion02.uasset" 23
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion02.uexp" 24
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire01.uasset" 25
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire01.uexp" 26
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire_Sparks01.uasset" 27
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire_Sparks01.uexp" 28
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light01.uasset" 29
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light01.uexp" 30
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light01_Cue.uasset" 31
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light01_Cue.uexp" 32
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light02.uasset" 33
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light02.uexp" 34
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light02_Cue.uasset" 35
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Light02_Cue.uexp" 36
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Smoke01.uasset" 37
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Smoke01.uexp" 38
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Birds01.uasset" 39
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Birds01.uexp" 40
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Music01.uasset" 41
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Music01.uexp" 42
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Wind05.uasset" 43
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Wind05.uexp" 44
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Wind06.uasset" 45
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Wind06.uexp" 46
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Steam01.uasset" 47
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Steam01.uexp" 48
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion_Cue.uasset" 49
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Explosion_Cue.uexp" 50
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 51
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 52
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 53
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 54
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 55
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 56
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 57
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 60
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 61
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 62
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 63
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 64
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 65
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 66
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 67
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 68
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 69
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Burst_M.uasset" 70
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Burst_M.uexp" 71
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Burst_M.ubulk" 72
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Burst.uasset" 73
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Burst.uexp" 74
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Explosion.uasset" 75
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Explosion.uexp" 76
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 77
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 78
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 79
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 80
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 81
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 82
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 83
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_N.uasset" 84
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_N.uexp" 85
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_N.ubulk" 86
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_D.uasset" 87
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_D.uexp" 88
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Bush_D.ubulk" 89
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Bush.uasset" 90
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Bush.uexp" 91
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Bush.uasset" 92
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Bush.uexp" 93
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_N.uasset" 94
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_N.uexp" 95
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_N.ubulk" 96
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_M.uasset" 97
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_M.uexp" 98
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Chair_M.ubulk" 99
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Chair.uasset" 100
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Chair.uexp" 101
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Couch.uasset" 102
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Couch.uexp" 103
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_N.uasset" 104
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_N.uexp" 105
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_N.ubulk" 106
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_M.uasset" 107
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_M.uexp" 108
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Door_M.ubulk" 109
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Door.uasset" 110
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Door.uexp" 111
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Glass.uasset" 112
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Glass.uexp" 113
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Door.uasset" 114
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Door.uexp" 115
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 116
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 117
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 118
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 119
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 120
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 121
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_N.uasset" 122
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_N.uexp" 123
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 124
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_M.uasset" 125
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_M.uexp" 126
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 127
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 128
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 129
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 130
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 131
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 132
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 134
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 135
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Rock.uasset" 136
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Rock.uexp" 137
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Rock.uasset" 138
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Rock.uexp" 139
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_N.uasset" 140
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_N.uexp" 141
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_N.ubulk" 142
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_M.uasset" 143
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_M.uexp" 144
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Shelf_M.ubulk" 145
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Shelf.uasset" 146
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Shelf.uexp" 147
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Shelf.uasset" 148
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Shelf.uexp" 149
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Basic_Floor.uasset" 150
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Basic_Floor.uexp" 151
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Stairs.uasset" 152
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Stairs.uexp" 153
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cone.uasset" 154
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cone.uexp" 155
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 156
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 157
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 158
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 159
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe.uasset" 160
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe.uexp" 161
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 162
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 163
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 164
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 165
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Plane.uasset" 166
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Plane.uexp" 167
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Torus.uasset" 168
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Torus.uexp" 169
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim.uasset" 170
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim.uexp" 171
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 172
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 173
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 174
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 175
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 176
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 177
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Tube.uasset" 178
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Tube.uexp" 179
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 180
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 181
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 182
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 183
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 184
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 185
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 186
+"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 187
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 188
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 189
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 190
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 191
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 192
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 193
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRSpectator/RT_VRSpectator.uasset" 194
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRSpectator/RT_VRSpectator.uexp" 195
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRSpectator/VRSpectator.uasset" 196
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRSpectator/VRSpectator.uexp" 197
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/Functions/MF_LightmassReplace.uasset" 198
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/Functions/MF_LightmassReplace.uexp" 199
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 200
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 201
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 202
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 203
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 204
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 207
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 208
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 209
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 210
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 211
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 213
+"../../../Engine/Content/BasicShapes/Cone.uasset" 214
+"../../../Engine/Content/BasicShapes/Cone.uexp" 215
+"../../../Engine/Content/BasicShapes/Plane.uasset" 216
+"../../../Engine/Content/BasicShapes/Plane.uexp" 217
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 218
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 219
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 220
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 221
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 222
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 223
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 224
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 225
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 226
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 227
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 228
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 229
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 230
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 231
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uexp" 232
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 233
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 234
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 235
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 236
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 237
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 254
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 255
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 256
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 257
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 258
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 259
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 260
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 261
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 262
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 263
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 264
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 265
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 266
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 267
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 268
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 269
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 270
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 271
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 272
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 273
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 274
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 275
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 276
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 277
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 278
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 279
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 280
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 281
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 282
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 283
+"../../../Engine/Content/EditorResources/S_Note.uasset" 284
+"../../../Engine/Content/EditorResources/S_Note.uexp" 285
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 286
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 287
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 288
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 289
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 290
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 291
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 292
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 293
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 294
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 295
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 296
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 297
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 298
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 299
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 300
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 301
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 302
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 303
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 304
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 305
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 306
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 307
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 308
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 309
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 310
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 311
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 312
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 313
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 314
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 315
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 316
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 318
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 319
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 320
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 323
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 324
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 325
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 326
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 327
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 328
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 329
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 330
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 331
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 332
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 333
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 334
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 335
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 336
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 337
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 338
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 339
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 340
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 341
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 342
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 343
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 344
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 345
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 346
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 347
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 348
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 349
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 350
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 351
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 352
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 353
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 354
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 355
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 356
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 357
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 358
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 359
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 361
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 362
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 363
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 364
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 365
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 366
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 367
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 368
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 370
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 372
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 374
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 376
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 377
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 378
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 379
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 380
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 381
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 382
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 383
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 384
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 385
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 386
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 387
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 388
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 389
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 390
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 391
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 392
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 393
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 394
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 395
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 397
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 398
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 399
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 400
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 401
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 402
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 403
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 404
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 405
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 406
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 407
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 408
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 409
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 410
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 411
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 412
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 413
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 414
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 415
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 416
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 417
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 418
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 419
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 420
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 421
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 422
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 423
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 424
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 425
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 426
+"../../../Engine/Content/EngineResources/Black.uasset" 427
+"../../../Engine/Content/EngineResources/Black.uexp" 428
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 429
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 430
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 431
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 432
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 433
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 434
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 435
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 436
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 437
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 438
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 439
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 440
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 441
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 442
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 443
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 444
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 445
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 446
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 447
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 448
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 449
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 450
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 451
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 452
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 453
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 454
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 455
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 456
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 457
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 458
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 459
+"../../../Engine/Content/EngineSounds/Master.uasset" 460
+"../../../Engine/Content/EngineSounds/Master.uexp" 461
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 462
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 463
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 464
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 465
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 466
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 467
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 468
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 469
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 470
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 471
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 472
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 473
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 475
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 476
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 477
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 478
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 479
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 480
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 481
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 482
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 483
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 485
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 487
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 488
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 489
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 490
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 491
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 492
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 493
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 494
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 495
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 496
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 497
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 498
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 499
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 500
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 501
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 502
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 503
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 504
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 505
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 506
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 507
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 508
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 509
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 510
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 511
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 512
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 513
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 514
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 515
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 516
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 517
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 518
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 519
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 520
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 521
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 522
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 523
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 524
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 525
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 526
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 527
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 528
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 529
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 530
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 531
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 532
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 533
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 534
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 535
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 536
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 537
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 538
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 539
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 540
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 541
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 542
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 543
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 544
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 545
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 546
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 547
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 548
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 549
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 550
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 551
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 554
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 555
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 556
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 557
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 561
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 562
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 563
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 564
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 565
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 566
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 567
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 568
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 569
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 570
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 571
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 572
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 573
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 574
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 575
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 576
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 577
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 578
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 579
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 580
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 581
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 582
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 583
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 584
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power4.uasset" 585
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power4.uexp" 586
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power3.uasset" 587
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power3.uexp" 588
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power2.uasset" 589
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power2.uexp" 590
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power1.uasset" 591
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power1.uexp" 592
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power0.uasset" 593
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power0.uexp" 594
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/PlasmaStream.uasset" 595
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/PlasmaStream.uexp" 596
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/PlasmaStream.ubulk" 597
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/LongBolt.uasset" 598
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/LongBolt.uexp" 599
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/RayTexture/LongBolt.ubulk" 600
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 601
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uexp" 602
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Ray.uasset" 603
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Ray.uexp" 604
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Ray.uasset" 605
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Ray.uexp" 606
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Quad.uasset" 607
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Quad.uexp" 608
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Normal.uasset" 609
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Normal.uexp" 610
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2Controller.uasset" 611
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2Controller.uexp" 612
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo2_Right.uasset" 613
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo2_Right.uexp" 614
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo2_Left.uasset" 615
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo2_Left.uexp" 616
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Normal.uasset" 617
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Normal.uexp" 618
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_G2Controller.uasset" 619
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_G2Controller.uexp" 620
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_G2.uasset" 621
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_G2.uexp" 622
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/DefaultRT.uasset" 623
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/DefaultRT.uexp" 624
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_power.uasset" 625
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_power.uexp" 626
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_R_tag.uasset" 627
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_R_tag.uexp" 628
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2_Tag_R.uasset" 629
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2_Tag_R.uexp" 630
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_L_tag.uasset" 631
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_L_tag.uexp" 632
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2_Tag_L.uasset" 633
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo2_Tag_L.uexp" 634
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Blueprint/BP_Controller.uasset" 635
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Blueprint/BP_Controller.uexp" 636
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Normal.uasset" 637
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Normal.uexp" 638
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo3Controller.uasset" 639
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Neo3Controller.uexp" 640
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo3_Right.uasset" 641
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo3_Right.uexp" 642
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo3_Left.uasset" 643
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_Neo3_Left.uexp" 644
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Blueprint/PicoXRInputComponent.uasset" 645
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Blueprint/PicoXRInputComponent.uexp" 646
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/PicoXRPawn.uasset" 647
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/PicoXRPawn.uexp" 648
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Controller.uasset" 649
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_Controller.uexp" 650
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_EyeMask.uasset" 651
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_EyeMask.uexp" 652
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_MRC.uasset" 653
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_MRC.uexp" 654
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/UnderlayMaterial.uasset" 655
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/UnderlayMaterial.uexp" 656
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_TouchPoint.uasset" 657
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Materials/Mat_TouchPoint.uexp" 658
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_TouchPoint.uasset" 659
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Meshes/Mesh_TouchPoint.uexp" 660
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Back.uasset" 661
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Back.uexp" 662
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Home.uasset" 663
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Home.uexp" 664
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Touchpad.uasset" 665
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Touchpad.uexp" 666
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Trigger.uasset" 667
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_Trigger.uexp" 668
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_VolumeDown.uasset" 669
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_VolumeDown.uexp" 670
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_VolumeUp.uasset" 671
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/G2Texture/G2_VolumeUp.uexp" 672
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_A.uasset" 673
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_A.uexp" 674
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_B.uasset" 675
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_B.uexp" 676
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Back.uasset" 677
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Back.uexp" 678
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Grip.uasset" 679
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Grip.uexp" 680
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Home.uasset" 681
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Home.uexp" 682
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Rocker.uasset" 683
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Rocker.uexp" 684
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Trigger.uasset" 685
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Trigger.uexp" 686
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_X.uasset" 687
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_X.uexp" 688
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Y.uasset" 689
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo2Texture/Neo2_Y.uexp" 690
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_A.uasset" 691
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_A.uexp" 692
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_B.uasset" 693
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_B.uexp" 694
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Back.uasset" 695
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Back.uexp" 696
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Grip.uasset" 697
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Grip.uexp" 698
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Home.uasset" 699
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Home.uexp" 700
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Rocker.uasset" 701
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Rocker.uexp" 702
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Trigger.uasset" 703
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Trigger.uexp" 704
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_X.uasset" 705
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_X.uexp" 706
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Y.uasset" 707
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/Neo3Texture/Neo3_Y.uexp" 708
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power0_White.uasset" 709
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Plugins/PicoXR/Content/Textures/PowerTexture/Power0_White.uexp" 710
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_AssetPlatform.uasset" 711
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_AssetPlatform.uexp" 712
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 713
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 714
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 715
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 716
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 717
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 718
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 719
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 720
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 721
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 722
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 723
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 724
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 725
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 726
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 727
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 728
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 729
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 730
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 731
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 732
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 733
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 734
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 735
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 736
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 737
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 738
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 739
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 740
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 741
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 742
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 743
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 744
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 745
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 746
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 747
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 748
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 749
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 750
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 751
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 752
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 753
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 754
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 755
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 756
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Advanced_Lighting.uexp" 757
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Advanced_Lighting.umap" 758
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_N.uasset" 759
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_N.uexp" 760
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_N.ubulk" 761
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_M.uasset" 762
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_M.uexp" 763
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_TableRound_M.ubulk" 764
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_TableRound.uasset" 765
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_TableRound.uexp" 766
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_TableRound.uasset" 767
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_TableRound.uexp" 768
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_N.uasset" 769
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_N.uexp" 770
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_N.ubulk" 771
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_M.uasset" 772
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_M.uexp" 773
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Statue_M.ubulk" 774
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Statue.uasset" 775
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Statue.uexp" 776
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 777
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 778
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Statue.uasset" 779
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Statue.uexp" 780
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Chair.uasset" 781
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Chair.uexp" 782
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Floor_400x400.uasset" 783
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Floor_400x400.uexp" 784
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 785
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 786
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 787
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 788
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 789
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 790
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 791
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 792
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_MacroVariation.uasset" 793
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_MacroVariation.uexp" 794
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Copper.uasset" 795
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Copper.uexp" 796
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 797
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 798
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 799
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 800
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 801
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 802
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 803
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 804
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 805
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 806
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 807
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 808
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 809
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 810
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 811
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 812
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 813
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 814
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 815
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 816
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 817
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 818
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 819
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 820
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 821
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 822
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 823
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 824
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 825
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 826
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 827
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Minimal_Default.uexp" 828
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/Minimal_Default.umap" 829
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Sphere.uasset" 830
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Sphere.uexp" 831
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 832
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 833
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cube.uasset" 834
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Shapes/Shape_Cube.uexp" 835
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_N.uasset" 836
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_N.uexp" 837
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_N.ubulk" 838
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_M.uasset" 839
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_M.uexp" 840
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Frame_M.ubulk" 841
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Frame.uasset" 842
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Frame.uexp" 843
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_WindowFrame.uasset" 844
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_WindowFrame.uexp" 845
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_PillarFrame300.uasset" 846
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_PillarFrame300.uexp" 847
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_PillarFrame.uasset" 848
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_PillarFrame.uexp" 849
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_GlassWindow.uasset" 850
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_GlassWindow.uexp" 851
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_DoorFrame.uasset" 852
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_DoorFrame.uexp" 853
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_CornerFrame.uasset" 854
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_CornerFrame.uexp" 855
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/MaterialSphere.uasset" 856
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/MaterialSphere.uexp" 857
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 858
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 859
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 860
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 861
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 862
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 863
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 864
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 865
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 866
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 867
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 868
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 869
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 870
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 871
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 872
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 873
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 874
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 875
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 876
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 877
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 878
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 879
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 880
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 881
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Pine.uasset" 882
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Pine.uexp" 883
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 884
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 885
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 886
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 887
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 888
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 889
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Oak.uasset" 890
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Oak.uexp" 891
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 892
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 893
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 894
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 895
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 896
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 897
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 898
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 899
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 900
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 901
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 902
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 903
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 904
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 905
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 906
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_M.uasset" 907
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_M.uexp" 908
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_M.ubulk" 909
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_N.uasset" 910
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_N.uexp" 911
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Water_N.ubulk" 912
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Water_Ocean.uasset" 913
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Water_Ocean.uexp" 914
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Water_Lake.uasset" 915
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Water_Lake.uexp" 916
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 917
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 918
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 919
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 920
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 921
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 922
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 923
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 924
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 925
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Panel.uasset" 926
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Panel.uexp" 927
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 928
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 929
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 930
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 931
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 932
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 933
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 934
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 935
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 936
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 937
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 938
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 939
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 940
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 941
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 942
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 943
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 944
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 945
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 946
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 947
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 948
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 949
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 950
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 951
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 952
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 953
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 954
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 955
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 956
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 957
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Slate.uasset" 958
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Slate.uexp" 959
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 960
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 961
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 962
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 963
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 964
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 965
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 966
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 967
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 968
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 969
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 970
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 971
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 972
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 973
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 974
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 975
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 976
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 977
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 978
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 979
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 980
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Steel.uasset" 981
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Steel.uexp" 982
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 983
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 984
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 985
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 986
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 987
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 988
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Rust.uasset" 989
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Rust.uexp" 990
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 991
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 992
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 993
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Gold.uasset" 994
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Gold.uexp" 995
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 996
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 997
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 998
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 999
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1000
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1001
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1002
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1003
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1004
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1005
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1006
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1007
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1008
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1009
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1010
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1011
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1012
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1013
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1014
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1015
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1016
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1017
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1018
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1019
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1020
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1021
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1022
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1023
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1024
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1025
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1026
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1027
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1028
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1029
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1030
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1031
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1032
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1033
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1034
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1035
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1036
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1037
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1038
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1039
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1040
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1041
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1042
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1043
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1044
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1045
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1046
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1047
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1048
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1049
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1050
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1051
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1052
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1053
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1054
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1055
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1056
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1057
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1058
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1059
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1060
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1061
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1062
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1063
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1064
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1065
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1066
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1067
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1068
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1069
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1070
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1071
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1072
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1073
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1074
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1075
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1076
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1077
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1078
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1079
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1080
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1081
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1082
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1083
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1084
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1085
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1086
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1087
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1088
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1089
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1090
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1091
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1092
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1093
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1094
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1095
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1096
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1097
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1098
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1099
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1100
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1101
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1102
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1103
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1104
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1105
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1106
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1107
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1108
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1109
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1110
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1111
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1112
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1113
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1114
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1115
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1116
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1117
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1118
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1119
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1120
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1121
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1122
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1123
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1124
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1125
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1126
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1127
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1128
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1129
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1130
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1131
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1132
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1133
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1134
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1135
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1136
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1137
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1138
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1141
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1142
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1143
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1144
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1145
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1146
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1147
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1148
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1149
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1150
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1151
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1152
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1153
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1154
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x200.uasset" 1155
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_400x200.uexp" 1156
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1157
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1158
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1159
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1160
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse_Cue.uasset" 1161
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Collapse_Cue.uexp" 1162
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1163
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 1164
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_N.uasset" 1165
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_N.uexp" 1166
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1167
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_M.uasset" 1168
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_M.uexp" 1169
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1170
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1171
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1172
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1173
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1174
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1175
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1176
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire01_Cue.uasset" 1177
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire01_Cue.uexp" 1178
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1179
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1180
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1181
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1182
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1183
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1184
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1185
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1186
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1187
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1188
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1189
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1190
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Fire.uasset" 1191
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Fire.uexp" 1192
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1193
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1194
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1195
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1196
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Smoke.uasset" 1197
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Smoke.uexp" 1198
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1199
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1200
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1201
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1202
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Spark_Core.uasset" 1203
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Spark_Core.uexp" 1204
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1205
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1206
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1207
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Sparks.uasset" 1208
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Sparks.uexp" 1209
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1210
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1211
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1212
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1213
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1214
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1215
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Steam01_Cue.uasset" 1216
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Audio/Steam01_Cue.uexp" 1217
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1218
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1219
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1220
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1221
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/StarterMap.uexp" 1222
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/StarterContent/Maps/StarterMap.umap" 1223
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Textures/T_Grid.uasset" 1224
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Textures/T_Grid.uexp" 1225
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Textures/T_Grid.ubulk" 1226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 1228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 1229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 1230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1233
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 1235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 1236
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_GridRotation.uasset" 1237
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_GridRotation.uexp" 1238
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 1239
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 1240
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 1241
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 1242
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 1243
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 1244
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 1245
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 1246
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1247
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 1248
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 1249
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 1250
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 1251
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 1252
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 1253
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 1254
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 1255
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 1256
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 1257
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 1258
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 1259
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 1260
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 1261
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 1262
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 1263
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 1264
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 1265
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 1266
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 1267
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 1268
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 1269
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 1270
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 1271
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 1272
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 1273
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 1274
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 1275
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 1276
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 1277
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 1278
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 1279
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 1280
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 1281
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 1282
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 1283
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 1284
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 1285
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 1286
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 1287
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 1288
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 1289
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 1290
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 1291
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 1292
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 1293
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 1294
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1295
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 1296
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 1297
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 1298
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 1299
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 1300
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1301
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1302
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 1303
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 1304
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 1305
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 1306
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 1307
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 1308
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 1309
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 1310
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 1311
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 1312
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 1313
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 1314
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 1315
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 1316
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 1317
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 1318
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 1319
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 1320
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 1321
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 1322
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 1323
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 1324
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 1325
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 1326
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 1327
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 1328
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1329
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 1330
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1331
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 1332
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 1333
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 1334
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 1335
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 1336
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 1337
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 1338
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 1339
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 1340
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1341
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 1342
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1343
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 1344
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 1345
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 1346
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1347
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1348
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1349
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 1350
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1351
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 1352
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1353
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 1354
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1355
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 1356
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 1357
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 1358
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 1359
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 1360
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 1361
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 1362
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1363
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 1364
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1365
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 1366
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1367
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 1368
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1369
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 1370
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1371
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 1372
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1373
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 1374
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1375
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 1376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 1377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 1378
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 1379
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 1380
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 1381
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 1382
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 1383
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 1384
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 1385
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 1386
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 1387
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 1388
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 1389
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 1390
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 1391
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 1392
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 1393
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 1394
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 1395
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 1396
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 1397
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 1398
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 1399
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 1400
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 1401
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 1402
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1403
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1404
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 1405
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 1406
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_VRCursor.uasset" 1407
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_VRCursor.uexp" 1408
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Menu.uasset" 1409
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Menu.uexp" 1410
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 1411
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 1412
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/GrabType.uasset" 1413
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/GrabType.uexp" 1414
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 1415
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 1416
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/GrabComponent.uasset" 1417
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/GrabComponent.uexp" 1418
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRPawn.uasset" 1419
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRPawn.uexp" 1420
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRGameMode.uasset" 1421
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/VRGameMode.uexp" 1422
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1423
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 1424
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 1425
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1426
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 1427
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1428
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 1429
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1430
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 1431
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1432
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1433
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1434
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1435
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" 1436
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uexp" 1437
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.ubulk" 1438
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 1439
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 1440
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_Projectile.uasset" 1441
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/M_Projectile.uexp" 1442
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Projectile.uasset" 1443
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Materials/MI_Projectile.uexp" 1444
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Projectile.uasset" 1445
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Projectile.uexp" 1446
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1447
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1448
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1449
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1450
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1451
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1452
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1453
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1454
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1455
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1456
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1457
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1458
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1459
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1460
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1461
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1462
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1463
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1464
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1465
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1466
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1467
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1468
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1469
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1470
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1471
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1472
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1473
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1474
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1475
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1476
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/M_FPGun.uasset" 1477
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Materials/M_FPGun.uexp" 1478
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1479
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 1480
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1481
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1482
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1483
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1484
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Pistol.uasset" 1485
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Pistol.uexp" 1486
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1487
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uexp" 1488
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1489
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uexp" 1490
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 1491
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 1492
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Audio/Fire01.uasset" 1493
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Audio/Fire01.uexp" 1494
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Audio/Fire_Cue.uasset" 1495
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Audio/Fire_Cue.uexp" 1496
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/CubeMaterial.uasset" 1497
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/CubeMaterial.uexp" 1498
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/1M_Cube.uasset" 1499
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/1M_Cube.uexp" 1500
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1501
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1502
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/TemplateFloor.uasset" 1503
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/Geometry/Meshes/TemplateFloor.uexp" 1504
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Maps/VRTemplateMap.uexp" 1505
+"D:/Thomas White/UE4_Projects/UE_4.27/Template/Content/VRTemplate/Maps/VRTemplateMap.umap" 1506
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1507
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1508
+"../../../Engine/Content/Maps/Entry.uexp" 1509
+"../../../Engine/Content/Maps/Entry.umap" 1510
